@@ -1,6 +1,16 @@
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Product preview card component coding challenge](./images/miniatura.jpg)
+
+## challenge completed by hugo8fa 💯
+
+Thaks for checking out this front-end coding challenge.
+
+Access the resolution of the challenge: [https://hugo8fa.github.io/productCard/](https://hugo8fa.github.io/productCard/)
+
+## You can also visit my linkedin
+
+[https://github.com/hugo8fa](https://github.com/hugo8fa/productCard)
 
 ## Welcome! 👋
 
