@@ -1,0 +1,35 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    /* primary */
+    --dark-cyan: hsl(158, 36%, 37%);
+    --cream: hsl(30, 38%, 92%);
+    /* neutral */
+    --very-dark-blue: hsl(212, 21%, 14%);
+    --dark-grayish-blue: hsl(228, 12%, 48%);
+    --white: hsl(0, 0%, 100%);
+
+    /* fonts */
+    --font-family-heading: 'Fraunces', serif;
+    --font-family-body: 'Montserrat', sans-serif;
+    --font-size: 14px;
+}
+
+body{
+    font-family: var(--font-family-body);
+    font-size: var(--font-size);
+}
+
+.footer { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.footer a { 
+    color: hsl(228, 45%, 44%); 
+}
